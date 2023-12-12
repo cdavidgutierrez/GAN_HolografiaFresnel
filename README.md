@@ -5,8 +5,7 @@ reconstrucción. Esto representa una alternativa eficiente frente a los algoritm
 
 ## Problema.
 
-La holografía digital puede ser simulada mediante méto-
-dos basados en transformada de Fourier (FFT)–discreta en
+La holografía digital puede ser simulada mediante métodos basados en transformada de Fourier (FFT)–discreta en
 el caso computacional–. Para la generación de hologramas de Fresnel, de acuerdo a la teoría de difracción de Fresnel, se debe definir una expresión
 para la propagación a cierta distancia del campo difractado
 de un objeto (propagador de Fresnel). Para ello se calcula la
